@@ -5,7 +5,9 @@ This project is a web application that fetches and displays weather data based o
 
 Key Features:
 User-Inputted Location: Allows users to enter a location (city or country) to get the weather information.
+
 Real-Time Weather Data: Displays current weather conditions, temperature, humidity, wind speed, and other relevant information.
+
 Responsive Design: Ensures that the app works seamlessly on various devices, including desktops, tablets, and mobile phones.
 
 Technologies Used:
@@ -16,9 +18,13 @@ Weather API
 
 Advantages of the Project:
 User-Friendly Interface: The app is designed with simplicity and ease of use in mind, allowing users to quickly check the weather.
+
 Real-Time Data: Fetches and displays up-to-date weather information.
+
 Location Flexibility: Supports user-inputted locations.
+
 Responsiveness: Ensures a seamless experience across different devices and screen sizes.
+
 Educational Value: Demonstrates practical use of web development technologies, including API integration and asynchronous JavaScript.
 
 
