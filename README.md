@@ -1,4 +1,5 @@
 PRODIGY_WD_05
+Weather App
 Project Description:
 This project is a web application that fetches and displays weather data based on the user's location or a location inputted by the user. By leveraging a weather API, the application provides real-time weather information such as current weather conditions, temperature, humidity, wind speed, and other relevant details. The app aims to offer a user-friendly interface where users can easily check the weather for any location.
 
@@ -20,7 +21,7 @@ Location Flexibility: Supports user-inputted locations.
 Responsiveness: Ensures a seamless experience across different devices and screen sizes.
 Educational Value: Demonstrates practical use of web development technologies, including API integration and asynchronous JavaScript.
 
-Video:
+
 <video controls src="wd_01.mp4" title="Code"></video>
-Output:
+
 <video controls src="wd_012.mp4" title="Output"></video>
